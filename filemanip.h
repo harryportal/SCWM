@@ -4,12 +4,7 @@
 
 
 void checkCommand(int argc, char **argv);
-writeAndReadFile(const char *filename);
-WriteLinesToFile(const char *filename);
-
-
-
-
-
+void writeAndReadFile(const char *filename);
+void WriteLinesToFile(const char *filename);
 
 #endif // FILEMANIP_H
